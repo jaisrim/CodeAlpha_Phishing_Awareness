@@ -1,6 +1,6 @@
-# 🛡️ Phishing Awareness Training
+# Phishing Awareness Training
 
-## 📌 Project Overview
+## Project Overview
 
 This project was developed as part of the **CodeAlpha Cyber Security Internship**.
 
@@ -8,7 +8,7 @@ The presentation aims to educate users about phishing attacks, social engineerin
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Understand Cyber Security fundamentals
 - Learn the CIA Triad
